@@ -121,3 +121,9 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+---
+
+# Autor(a)
+
+Esse projeto foi modificado e documentado por **Maria Eduarda**, como parte de estudos e práticas em Engenharia de Prompt
